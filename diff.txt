@@ -1,0 +1,39 @@
+diff --git a/random.txt b/random.txt
+index 4e1455c..f2dd9a7 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,21 +1,17 @@
+-I stand amid the roar
++That my days have been a dream;
+ And I hold within my hand
+-Is but a dream within a dream.
+-Is it therefore the less gone?
+-While I weep--while I weep!
+-Of a surf-tormented shore,
+-Grains of the golden sand--
+-You are not wrong, who deem
+-You are not wrong, who deem
+-And I hold within my hand
+-Is all that we see or seem
+-Them with a tighter clasp?
+-But a dream within a dream?Them with a tighter clasp?
+-Through my fingers to the deep,
++But a dream within a dream?Of a surf-tormented shore,
++How few! yet how they creep
++That my days have been a dream;
++Thus much let me avow--
+ One from the pitiless wave?
+-Them with a tighter clasp?
+-O God! can I not save
+ Take this kiss upon the brow!
++O God! can I not grasp
+ One from the pitiless wave?
+-In a vision, or in none,
+-Of a surf-tormented shore,
++All that we see or seem
++You are not wrong, who deem
++Is it therefore the less gone?
++Grains of the golden sand--
++O God! can I not save
++O God! can I not grasp
++You are not wrong, who deem
