@@ -1,0 +1,17 @@
+commit 35c0cbb852d1cdf352b37ee930bea257431ba21b
+Author: eman-ant <eanteneh3@gmail.com>
+Date:   Fri Feb 9 21:25:02 2024 +0000
+
+    Added files from problem 1 for intro to git
+
+commit 271b23de0b872f79f4e6c396e43ed24f073241e0
+Author: eman-ant <eanteneh3@gmail.com>
+Date:   Fri Feb 9 21:17:22 2024 +0000
+
+    Added linux_exercise.txt
+
+commit 01059123990f177caa3933bb3561a703c73f9be7
+Author: eman-ant <95547181+eman-ant@users.noreply.github.com>
+Date:   Fri Feb 9 16:07:38 2024 -0500
+
+    Initial commit
